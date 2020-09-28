@@ -1,12 +1,5 @@
-# lit-example
+# Packaging LitElement
 
-# What if we could use lit-element like this?
+For a javascript developer who prefers pure browser apps.
 
-    import {LitElement, html, css} from 'https://cdn.example.com/lit-element.es.js'
-    class MyElement extends LitElement {
-     ...
-    }
-
-# How is this different from what lit-element already does?
-
-Look, Mom! I did this without `npm`!
+See https://wiki.dbbs.co/packaging-litelement.html
